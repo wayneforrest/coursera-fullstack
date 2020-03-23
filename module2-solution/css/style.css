@@ -22,6 +22,7 @@ h3 {
 	width: 100px;
 	text-align: center;
 	margin: 0px;
+	border: 1px solid;
 }
 
 .item-description {
