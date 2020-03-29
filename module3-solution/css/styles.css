@@ -1,0 +1,35 @@
+
+
+a.navbar-brand, li >a {
+	color: black;
+}
+
+button.navbar-toggle.collapsed {
+	background-color: black;
+}
+button>span {
+	background-color: white;
+}
+
+li.active {
+	background-color: gold;
+}
+
+.navbar, .menu-block, div.navbar-header, li, .navbar-collapse {
+	background-color: darkgrey;
+}
+
+.col-xs-12 {
+	height: 10000px;
+}
+
+.our-block {
+	background-color: darkgray;
+	margin: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+}
+.top-menu {
+	padding-top: 15px;
+}
