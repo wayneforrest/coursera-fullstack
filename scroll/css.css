@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    height: 60px;
+    width: 100%;
+    line-height: 60px;
+    border-left: 16px solid rgb(97, 198, 97);
+    background-color: lightblue;
+    padding-left: 8px;
+}
+
+header {
+    position: relative;
+    top: 0;
+    height: 60px;
+    background-color: lightblue;
+}
